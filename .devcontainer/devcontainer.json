@@ -16,7 +16,6 @@
 	// Add the IDs of extensions you want installed when the container is created in the array below.
 	"extensions": [
         "dbaeumer.vscode-eslint",
-        "hookyqr.beautify",
 		"eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
 		"gamunu.vscode-yarn"
